@@ -1,0 +1,23 @@
+{
+  "files.associations": {
+    "bluetooth_service.h": "c",
+    "esp_peripherals.h": "c",
+    "audio_common.h": "c",
+    "nvs_flash.h": "c",
+    "esp_log.h": "c",
+    "task.h": "c",
+    "freertos.h": "c",
+    "audio_element.h": "c",
+    "audio_event_iface.h": "c",
+    "audio_pipeline.h": "c",
+    "periph_touch.h": "c",
+    "i2s_stream.h": "c",
+    "mp3_decoder.h": "c",
+    "esp_a2dp_api.h": "c",
+    "esp_avrc_api.h": "c",
+    "esp_gap_bt_api.h": "c",
+    "esp_bt_defs.h": "c",
+    "bt_keycontrol.h": "c",
+    "filter_resample.h": "c"
+  }
+}
